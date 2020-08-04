@@ -283,12 +283,12 @@ gitalk:
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
 gitment:
-  enable: true
-  owner:
-  repo:
+  enable: false
+  owner: Techdim
+  repo: https://github.com/Techdim/Techdim.github.io
   oauth:
-    clientId:
-    clientSecret:
+    clientId: 800b85f6eeae334a31b1
+    clientSecret: b32e19e43d2b02181e3c5d69baaf33388c8c0211
 
 # disqus config, default disabled
 # Disqus评论模块的配置，默认为不激活
